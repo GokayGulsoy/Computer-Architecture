@@ -17,4 +17,4 @@
 13. Cache Performance (LAB: Cache Simulator) (VA#3 OUT) 
 14. Parallelism (LABç Recitation (Final Preparation) (VA#3 DUE) (PA#4 DUE)
 
-Textbook can be found on: [Computer Organization and Design (Patterson & Hennessy](/Textbook/textbook.zip)
+Textbook can be found on: [Computer Organization and Design (Patterson & Hennessy)](/Textbook/textbook.zip)
